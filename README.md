@@ -1,3 +1,5 @@
+This repo is in no way intended to be a demonstration of good work. Just a quick share of hack scripts. That said you should be able to run the scripts fine. Added docker for windows users.
+
 # kafkahackscripts
 
 `npm install`
